@@ -123,8 +123,4 @@ else:
 
 
 exit()
-
-
-
-
 mycache.close()
